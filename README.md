@@ -4,3 +4,4 @@ This is a simple php script which create for some demo pruporses or kind of fun.
 
 You need to upload it your web hosting and password is pentestguy.in
 
+![](images/email-spoof.png)
